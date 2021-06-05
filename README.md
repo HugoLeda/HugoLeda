@@ -4,7 +4,7 @@
 
 
 <h1 align = "justify"> 
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am João Hugo Leda
+  Oii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou o João Hugo Leda
 </h1>
 
 <ul>
