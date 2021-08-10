@@ -1,10 +1,3 @@
-
-[//]: # (<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hugoleda" alt="hugoleda" />
-</p>)
-
-
-
 <h1 align = "center"> 
   Oiee! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou o João Hugo :grin:
 </h1>
