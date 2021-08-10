@@ -1,6 +1,8 @@
-<p align="left">
+
+[//]: # (<p align="left">
   <img src="https://komarev.com/ghpvc/?username=hugoleda" alt="hugoleda" />
-</p>
+</p>)
+
 
 
 <h1 align = "center"> 
