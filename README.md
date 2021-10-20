@@ -4,7 +4,7 @@
 
 ## :tipping_hand_man: Sobre mim
 <ul>
-  <li> Desenvolvedor Full-Stack </li>  
+  <li> Desenvolvedor Web </li>  
   <li> Técnico em Informática - Etec Terezinha Monteiro dos Santos </li>
   <li> Estudante de Ciência de Dados - Fatec Ourinhos </li>
 </ul>
