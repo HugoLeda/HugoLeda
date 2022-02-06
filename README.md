@@ -6,7 +6,6 @@
 <ul>
   <li> Desenvolvedor Web </li>  
   <li> Técnico em Informática - Etec Terezinha Monteiro dos Santos </li>
-  <li> Estudante de Ciência de Dados - Fatec Ourinhos </li>
 </ul>
 
 ## Contribuições :point_down:
