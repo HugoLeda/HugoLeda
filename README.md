@@ -5,7 +5,7 @@
 ## :tipping_hand_man: Sobre mim
 <ul>
   <li> Desenvolvedor Full-stack </li>  
-  <li> 📘 Ignite - Recketseat </li>
+  <li> 📘🚀 Ignite - Rocketseat </li>
   <li> Técnico em Informática - Etec Terezinha Monteiro dos Santos </li>
   <li> 2 semestres Ciência de Dados - Fatec Ourinhos </li>  
 </ul>
