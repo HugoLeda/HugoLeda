@@ -7,7 +7,7 @@
   <li> Desenvolvedor Full-stack </li>  
   <li> 📘🚀 Ignite - Rocketseat </li>
   <li> Técnico em Informática - Etec Terezinha Monteiro dos Santos </li>
-  <li> 2 semestres Ciência de Dados - Fatec Ourinhos </li>  
+  <li> 2 semestres em Ciência de Dados - Fatec Ourinhos </li>  
 </ul>
 
 ## Contribuições :point_down:
