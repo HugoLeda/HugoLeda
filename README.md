@@ -5,7 +5,12 @@
 ## :tipping_hand_man: Sobre mim
 <ul>
   <li> Desenvolvedor Full-stack </li>  
-  <li> 📘🚀 Ignite - Rocketseat </li>
+  <li> 📘🚀 Ignite - Rocketseat
+    <ul>
+      <li> ReactJS </li>
+      <li> Node.js </li>
+    </ul>
+  </li>
   <li> Informática - Etec Terezinha Monteiro dos Santos </li>
   <li> Ciência de Dados - Fatec Ourinhos </li>  
 </ul>
