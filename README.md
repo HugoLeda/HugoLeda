@@ -1,5 +1,5 @@
 <h1 align = "center"> 
-  Oiee! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou o João Hugo Leda :grin:
+  Oiee! Eu sou o João Hugo Leda :grin:
 </h1>
 
 ## :tipping_hand_man: Sobre mim
