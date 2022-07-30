@@ -8,7 +8,8 @@
   <li> 📘🚀 Ignite - Rocketseat
     <ul>
       <li> ReactJS </li>
-      <li> Node.js </li>
+      <li> React Native</li>
+      <li> Node.js </li>      
     </ul>
   </li>
   <li> Informática - Etec Terezinha Monteiro dos Santos </li>
