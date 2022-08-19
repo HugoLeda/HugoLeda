@@ -1,10 +1,10 @@
 <h1 align = "center"> 
-  Oiee! Eu sou o João Hugo Leda :grin:
+  Oieee! Eu sou o João Hugo Leda :grin:
 </h1>
 
 ## :tipping_hand_man: Sobre mim
 <ul>
-  <li> Desenvolvedor Web </li>  
+  <li> Desenvolvedor Full-Stack </li>  
   <li> 📘🚀 Ignite - Rocketseat
     <ul>
       <li> ReactJS </li>
