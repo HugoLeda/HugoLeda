@@ -8,7 +8,7 @@
   <li> 📘🚀 Ignite - Rocketseat
     <ul>
       <li> ReactJS </li>
-      <li> React Native</li>
+      <li> React Native </li>
       <li> Node.js </li>      
     </ul>
   </li>
