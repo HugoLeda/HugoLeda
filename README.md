@@ -4,8 +4,7 @@
 
 ## :tipping_hand_man: Sobre mim
 <ul>
-  <li> Desenvolvedor Full-Stack </li>  
-  <li> 📘🚀 Ignite - Rocketseat
+  <li> Desenvolvedor Full-Stack </li>    
     <ul>
       <li> ReactJS </li>
       <li> React Native </li>
