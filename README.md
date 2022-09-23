@@ -11,7 +11,7 @@
       <li> Node.js </li>      
     </ul>
   </li>
-  <li> Informática - Etec Terezinha Monteiro dos Santos </li>
+  <li> Técnico em Informática - Etec Terezinha Monteiro dos Santos </li>
   <li> Ciência de Dados - Fatec Ourinhos </li>  
 </ul>
 
