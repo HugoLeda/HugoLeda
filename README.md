@@ -2,7 +2,7 @@
   Oii! Eu sou o João Hugo Leda :grin:
 </h1>
 
-## :tipping_hand_man: Sobre mim
+### :tipping_hand_man: Sobre mim
 <ul>
   <li> Desenvolvedor Full-Stack </li>    
     <ul>
@@ -14,7 +14,7 @@
   <li> Técnico em Informática - Etec Terezinha Monteiro dos Santos </li>  
 </ul>
 
-## Contribuições :point_down:
+### Contribuições :point_down:
 <br/>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoleda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
