@@ -16,10 +16,10 @@
 
 ### Contribuições :point_down:
 <br/>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoleda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<p align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoleda&layout=compact&langs_count=7&theme=radical"/>  
-  <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoleda&theme=radical&hide_border=false">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoleda&theme=radical&hide_border=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoleda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </p>
 
 ## 💻 Techs
