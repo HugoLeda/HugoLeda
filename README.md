@@ -6,7 +6,7 @@
 <ul>
   <li> Desenvolvedor Full-Stack </li>    
     <ul>
-      <li> React.JS </li>
+      <li> ReactJS </li>
       <li> React Native </li>
       <li> Node.js </li>      
     </ul>
