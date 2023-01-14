@@ -2,7 +2,7 @@
   João Hugo Leda :grin:
 </h1>
 
-### :tipping_hand_man: Sobre mim
+### :tipping_hand_man:  Sobre mim
 <ul>
   <li> Desenvolvedor Full-Stack </li>    
     <ul>
