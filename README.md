@@ -22,7 +22,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoleda&layout=compact&langs_count=7&theme=radical"/>  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoleda&theme=radical&hide_border=false">  
 </p>
-
 ## 💻 Techs
 <div style="display: inline_block">
   <br>
