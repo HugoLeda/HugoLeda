@@ -15,7 +15,7 @@
   <li> Ciência de Dados - Fatec Ourinhos </li>
 </ul>
 
-### Contribuições :point_down:
+### Stats :point_down:
 <br/>
 <p align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoLeda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
