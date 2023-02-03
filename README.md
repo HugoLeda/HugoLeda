@@ -12,7 +12,7 @@
     </ul>
   </li>
   <li> Técnico em Informática - Etec Terezinha Monteiro dos Santos</li>  
-  <li> Ciência de Dados - Fatec Ourinhos </li>
+  <li> Ciência de Dados - Fatec </li>
 </ul>
 
 ### Stats :point_down:
