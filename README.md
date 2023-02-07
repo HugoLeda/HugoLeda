@@ -11,7 +11,7 @@
       <li> Node.js </li>      
     </ul>
   </li>
-  <li> Técnico em Informática</li>  
+  <li> Técnico em Informática </li>  
   <li> Ciência de Dados </li>
 </ul>
 
