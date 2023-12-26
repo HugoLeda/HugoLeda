@@ -8,7 +8,8 @@
     <ul>
       <li> React </li>
       <li> React Native </li>
-      <li> Node.js </li>      
+      <li> Node.js </li>  
+      <li> Python </li>
     </ul>
   </li>
   <li> Técnico em Informática </li>  
