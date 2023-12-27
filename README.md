@@ -1,5 +1,5 @@
 <h1 align = "center"> 
-  João Hugo Leda de Carvalho
+  João Hugo Leda
 </h1>
 
 ###  Sobre mim :tipping_hand_man:
