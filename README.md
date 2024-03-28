@@ -4,17 +4,17 @@
 
 ###  Sobre mim :tipping_hand_man:
 <ul>
+  <li> Ciêntista de Dados </li>
   <li> Desenvolvedor Full-Stack </li>    
     <ul>
-       <li>Javascript</li>
+      <li> Python </li>
+      <li> Javascript</li>
       <li> React </li>
       <li> React Native </li>
       <li> Node.js </li>  
-      <li> Python </li>
     </ul>
   </li>
   <li> Técnico em Informática </li>  
-  <li> Ciência de Dados </li>
 </ul>
 
 ### Stats :point_down:
