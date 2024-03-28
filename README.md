@@ -4,7 +4,7 @@
 
 ###  Sobre mim :tipping_hand_man:
 <ul>
-  <li> Ciêntista de Dados </li>
+  <li> Cientista de Dados </li>
   <li> Desenvolvedor Full-Stack </li>    
     <ul>
       <li> Python </li>
