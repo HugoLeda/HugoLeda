@@ -15,7 +15,7 @@
 
 [![Linkedin: joaohugoleda](https://img.shields.io/badge/-joaohugoleda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaohugoleda/)](https://www.linkedin.com/in/joao-hugo-leda-014078192/)
 [![Twitter: hugoleda](https://img.shields.io/twitter/follow/hugoleda?style=social)](https://twitter.com/HugoLeda)
-[![GitHub Thaiane](https://img.shields.io/github/followers/hugoleda?label=follow&style=social)](https://github.com/hugoleda)
+[![GitHub João Hugo](https://img.shields.io/github/followers/hugoleda?label=follow&style=social)](https://github.com/hugoleda)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
