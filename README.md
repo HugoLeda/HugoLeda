@@ -23,7 +23,7 @@
 const joao = {
   pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, HTML, CSS, Delphi],
-  tools: [Pandas, Numpy, React, React Native, Styled-Components, Node, Next],
+  tools: [Pandas, Numpy, React, React Native, Styled-Components, Node.js, Next],
   skills: ["machine learning", "natural processing language", "deep learning", "computational intelligence"],
   challenges: {
     graduationProject: "I am doing the graduation project"
